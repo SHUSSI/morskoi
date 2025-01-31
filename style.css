@@ -5,10 +5,10 @@
 
 body {
 
-    background-image: url(./img/fon1.png);
+    background-image: url(./img/fon.png);
     background-repeat: no-repeat;
     width: 1920px;
-    height: 3702px;
+    height: 2550px;
     overflow-x:  hidden;
 }
 
@@ -47,6 +47,7 @@ body {
 	border-radius: 1px;
     width: 180px;
     height: 50px;
+    text-decoration: none;
     
 }
 
@@ -105,6 +106,7 @@ body {
     background-color: white;
     width: 330px;
     height: 420px;
+    text-decoration: none;
 }
 
 .korobka2 {
@@ -117,6 +119,7 @@ body {
     background-color: white;
     width: 330px;
     height: 420px;
+    text-decoration: none;
 }
 
 .korobka3 {
@@ -129,6 +132,7 @@ body {
     background-color: white;
     width: 330px;
     height: 420px;
+    text-decoration: none;
 }
 
 .button1 {
@@ -140,6 +144,7 @@ body {
 	border-radius: 1px;
     width: 180px;
     height: 50px;
+    text-decoration: none;
 }
 
 .button1:hover {
